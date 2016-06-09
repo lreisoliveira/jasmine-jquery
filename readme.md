@@ -10,6 +10,11 @@ Testes em aplicações javascript.
 - http://tableless.com.br/testando-seu-codigo-jquery-com-jasmine-parte-1/
 
 
+## Pré-requisitos
+
+- Npm
+- Node.js
+
 ## Instalação
 
 ```

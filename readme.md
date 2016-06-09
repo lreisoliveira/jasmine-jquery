@@ -13,7 +13,6 @@ Testes em aplicações javascript.
 ## Pré-requisitos
 
 - Npm
-- Node.js
 
 ## Instalação
 

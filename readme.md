@@ -22,13 +22,15 @@ $ npm install -g jasmine
 $ jasmine init
 ```
 
-## Exemplos
+## Criando exemplos
 
 ```
 $ jasmine examples
 ```
 
-## Executando
+## Executando os testes
+
+A partir da raiz do projeto
 
 ```
 $ jasmine
